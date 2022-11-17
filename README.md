@@ -15,3 +15,11 @@ It is the most basic and widely used type of regression analysis. It fits a regr
 4. Estimating the linear model (fitting the line)
 5. Making predictions using the final model and evaluation
 6. Evaluating the validity and usefulness of the model.
+
+## Libraries used
+
+1. pandas
+2. numpy
+3. matplotlib
+4. sklearn
+5. statsmodels
